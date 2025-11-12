@@ -2,6 +2,9 @@
 
 This report provides all artifacts required by the **Spec-Driven Development (SDD)** methodology for a simple calculator that performs addition, subtraction, multiplication, and division. Each artifact corresponds to a phase in the SDD workflow: **specification**, **planning**, **task breakdown**, and **final implementation**. The approach follows the principles described in GitHub’s Spec Kit and the SDD philosophy.
 
+Full Article:
+https://medium.com/@ronivaldo/building-a-real-project-with-spec-driven-development-a-calculator-that-teaches-you-everything-15989e0abbf0
+
 ---
 
 ## Constitution
