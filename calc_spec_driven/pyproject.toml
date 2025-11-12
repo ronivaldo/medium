@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=60", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calc-cli"
+version = "1.0.0"
+description = "A basic calculator that supports addition, subtraction, multiplication and division"
+authors = [
+  { name = "Spec Driven Team", email = "dev@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.11"
+
+[project.scripts]
+calc-cli = "calc_cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--strict-markers"
