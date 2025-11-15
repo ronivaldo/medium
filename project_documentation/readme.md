@@ -59,7 +59,7 @@ A typical flow looks like this:
    ```bash
    git clone https://github.com/ronivaldo/medium.git
    cd medium/project_documentation
-````
+   ```
 
 2. **Open `prompt.md`.**
    This is the full master specification for the agent. Read through it so you understand:
