@@ -121,4 +121,4 @@ For the full narrative, examples, and rationale behind this approach, check out 
 
 If you experiment with this setup in your own projects, feel free to adapt `prompt.md` to your stack, your conventions, and your favorite AI tooling.
 
-```
+
